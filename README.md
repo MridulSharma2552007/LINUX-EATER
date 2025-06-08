@@ -14,4 +14,6 @@
 **How to run:**  
 Simply run the Python script from your terminal:  
 ```bash
+git clone https://github.com/MridulSharma2552007/LINUX-EATER.git
+cd LinuxEater
 python3 LinuxEater.py
